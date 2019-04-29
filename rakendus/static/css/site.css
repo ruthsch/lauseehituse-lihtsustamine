@@ -1,0 +1,53 @@
+body {
+	font-family: Ebrima;
+	background-color: #f5fff5;
+	width: 100%;
+    height: 100%;
+}
+
+h1 {
+	font-weight: 500;
+	text-align: center;
+	font-size: 40px;
+	color: #00001a;
+}
+
+h3 {
+	width: 80%;
+	font-weight: 400;
+	color: #00001a;
+}
+
+.container {
+	margin: auto;
+	width: 65%;
+}
+
+.form-group {
+	padding: 1px 10x;
+	width: 100%;
+}
+
+textarea {
+	border-radius: 2px;
+	width: 100%;
+    min-height: 25px;
+    padding: 6px;
+}
+
+input {
+	border-radius: 2px;
+	color: #f5fff5;
+	background-color: #679a67;
+	border: #528552;
+	font-size: 16px;
+	padding: 5px 10px;
+}
+
+
+#footer {
+	text-align: center;
+	color: #528552;
+	font-weight: 50;
+	font-size:0.75rem;
+}
